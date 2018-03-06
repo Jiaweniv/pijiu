@@ -31,7 +31,7 @@ body {
     margin-top: 0.185185rem;
     background-color: #fff;
     border-top: 0.018519rem solid #d4d4d4;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
     /*overflow-y: hidden;*/
     position: relative;
     height: 100%;
