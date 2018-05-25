@@ -31,7 +31,7 @@ var addClass = function(element, className) {
 
 // 打字效果
 var arr = [
-    { type: 'text', text: '楠楠，又名富贵，是个十足的女神经，嗯？' },
+    { type: 'text', text: '侯丽娇，又名侯哥，是个十足的女神经，嗯？' },
     { type: 'wait', time: 900 },
     { type: 'delete', num: 4 },
     { type: 'text', text: '，嗯!' },
