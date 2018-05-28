@@ -31,7 +31,7 @@ var addClass = function(element, className) {
 
 // 打字效果
 var arr = [
-    { type: 'text', text: '刘洋，又名小仙女，是个十足的女神经，嗯？' },
+    { type: 'text', text: '某某某，又名某某某，是个十足的女神经，嗯？' },
     { type: 'wait', time: 900 },
     { type: 'delete', num: 4 },
     { type: 'text', text: '，嗯!' },
@@ -41,7 +41,7 @@ var arr = [
     { type: 'br' },
     { type: 'text', text: '给你们看张她的照片吧~' },
     { type: 'wait', time: 900 },
-    { type: 'img', src: 'img/bishi2.jpg', id: "cat", style: "width: 50%;display: block;margin-left: auto;margin-right: auto;margin-top: 20px;margin-bottom: 20px;" },
+    { type: 'img', src: 'img/bishi.jpg', id: "cat", style: "width: 50%;display: block;margin-left: auto;margin-right: auto;margin-top: 20px;margin-bottom: 20px;" },
     { type: 'wait', time: 900 },
     // { type: 'delete', num: 1, time: 1000 },
     { type: 'text', text: '是不是美美哒~' }
