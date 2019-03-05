@@ -31,7 +31,7 @@ var addClass = function(element, className) {
 
 // 打字效果
 var arr = [
-    { type: 'text', text: 'W-L-J，又名万万ya，是个十足的美女吧，嗯？' },
+    { type: 'text', text: 'WLJ，又名万万ya，是个十足的美女吧，嗯？' },
     { type: 'wait', time: 900 },
     { type: 'delete', num: 4 },
     { type: 'text', text: '，嗯!' },
@@ -47,7 +47,7 @@ var arr = [
     { type: 'text', text: '她是不是美美哒~' },
     { type: 'br' },
     { type: 'wait', time: 900 },
-    { type: 'text', text: '不要生气啦~ /抱抱' },
+    { type: 'text', text: '不要生气啦~ 抱抱 mua~' },
 ]
 
 var autoType = new AutoType(content, arr);
